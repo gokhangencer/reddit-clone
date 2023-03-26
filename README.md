@@ -1,3 +1,19 @@
+https://www.youtube.com/watch?v=rCm5RVYKWVg
+
+49:10, 02:05
+
+https://github.com/shadeemerhi/reddit-clone-yt/tree/main/src
+
+https://recoiljs.org/
+
+//next router changes
+https://beta.nextjs.org/docs/api-reference/use-router
+
+https://console.firebase.google.com/
+
+-- tsx snippet
+tfcd => function component snippet
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
