@@ -1,1 +1,1 @@
-React, vercel, redit clone sample
+React, vercel, reddit clone sample
